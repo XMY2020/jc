@@ -24,16 +24,8 @@ title: Home
 <details> <summary>第二步：配置TikTok脚本到Shadowrocket</summary> <pre><code>复制这个链接替换视频中的链接:
 <font color=red>https://tkjc.netlify.app/wtfxq.conf</font> 
 注意：视频里用到的链接复制上面的进行替换
-<iframe 
-    height=450 
-    width=800 
-    src='https://video.weibo.com/show?fid=1034:4706039556407390' 
-    frameborder=0 
-    'allowfullscreen'>
-</iframe>
-
-
-
+<video width="300" height="180" loop="loop" autoplay="autoplay" preload="auto">
+<source src="http://r2xazypbg.hn-bkt.clouddn.com/ssjc.mp4" type="video/mp4" /></video>
 
 #### <font color=red>注意：非本店用户使用本链接造成任何问题责任自负</font>
 
@@ -50,9 +42,9 @@ title: Home
 
 没有的请点击新手必看，
 
-<font color=red>注意：小火箭的全局模式须改为【代理】</font> 
+<font color=red>注意：小火箭的全局路由须改为【代理】</font>
 
-</code></pre> </details>
+{{<figure src="http://r2xazypbg.hn-bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211121145218.jpg" title="全局路由改为代理" width="300">}} </code></pre> </details>
 
 </code></pre> </details>
 
@@ -60,6 +52,8 @@ title: Home
 然后点下面的按钮，点安装，等待2分钟，
 就能看到在桌面TikTok已经下载好了，
 <font color=red>本站店铺名WTFXQ</font>，通过其他店进来的跟他们申请退款。
+
+
 
 [点我安装TikTok免拔卡版本](itms-services://?action=download-manifest&url=https://www.neicexia.com/PlistFile/Get/KKR5E)<font color=red>出现闪退？</font>解决办法：
 
