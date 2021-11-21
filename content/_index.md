@@ -24,8 +24,20 @@ title: Home
 <details> <summary>第二步：配置TikTok脚本到Shadowrocket</summary> <pre><code>复制这个链接替换视频中的链接:
 <font color=red>https://tkjc.netlify.app/wtfxq.conf</font> 
 注意：视频里用到的链接复制上面的进行替换
-<video width="300" height="180" loop="loop" autoplay="autoplay" preload="auto">
-<source src="http://r2xazypbg.hn-bkt.clouddn.com/ssjc.mp4" type="video/mp4" /></video>
+
+
+
+<iframe 
+src="http://r2xazypbg.hn-bkt.clouddn.com/ssjc.mp4" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
+
 
 #### <font color=red>注意：非本店用户使用本链接造成任何问题责任自负</font>
 
