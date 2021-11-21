@@ -25,15 +25,13 @@ title: Home
 <font color=red>https://tkjc.netlify.app/wtfxq.conf</font> 
 注意：视频里用到的链接复制上面的进行替换
 <iframe 
-src="https://video.weibo.com/show?fid=1034:4706039556407390" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
+    height=450 
+    width=800 
+    src='https://video.weibo.com/show?fid=1034:4706039556407390' 
+    frameborder=0 
+    'allowfullscreen'>
 </iframe>
+
 
 
 
