@@ -27,8 +27,10 @@ title: Home
 </code></pre> </details>
 
 <details> <summary>第二步：配置TikTok脚本到火箭</summary> <pre><code>复制这个链接替换视频中的链接:
-<font color=red>https://tkjc.netlify.app/wtfxq.conf</font> 
+<font color=red>https://tk2022.netlify.app/wtfxq.conf</font> 
 注意：视频里用到的链接复制上面的进行替换
+
+
 
 <iframe 
 src="http://r2xazypbg.hn-bkt.clouddn.com/ssjc.mp4" 
@@ -40,6 +42,7 @@ allowfullscreen="true"
 height=600 
 width=800> 
 </iframe>
+
 
 
 
