@@ -24,7 +24,6 @@ title: Home
 <font color=red>下面有图示操作：</font>{{<figure src="https://www.z4a.net/images/2021/11/20/_20211120200250.md.jpg" title="" width="550">}}{{<figure src="https://z3.ax1x.com/2021/11/20/IOuQ9e.jpg" title="" width="450">}}
 
 
-
 </code></pre> </details>
 
 <details> <summary>第二步：配置TikTok脚本到火箭</summary> <pre><code>此步骤通过视频演示来教学，
@@ -32,8 +31,6 @@ title: Home
 首先复制这个链接替换视频中用到的链接:
 <font color=red>https://tk2022.netlify.app/wtfxq.conf</font> 
 注意：视频里用到的链接复制上面的进行替换
-
-
 
 
 
@@ -52,13 +49,7 @@ width=800>
 
 
 
-
-
-
-
-
-
-#### 视频看不了？点这里进入>>>><font color=red>[备用视频](http://r2xazypbg.hn-bkt.clouddn.com/ssjc.mp4)</font><font color=red>注意：非本店用户使用本链接造成任何问题责任自负</font>
+#### <font color=red>注意：非本店用户使用本链接造成任何问题责任自负</font>
 
 </code></pre> </details>
 
@@ -102,10 +93,12 @@ width=800>
 <font color=red>两张TikTok截图+15字好评，
 内容不要带小火箭或节点截图，
 也不要出现翻墙/科学上网/节点等字眼，
-即可获取以上干货教程和终身售后服务，
-关注店铺、收藏宝贝即可第一时间接收到来自TikTok的更新和
-稳定靠谱的专业技术团队支持。
+即可获取以上干货教程和终身免费售后，
+关注店铺、收藏宝贝即可第一时间获得TikTok更新和
+我们的专业技术支持。
 </font>
+
+
 
 
 
