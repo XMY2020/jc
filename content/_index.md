@@ -15,8 +15,8 @@ title: Home
 <details> <summary>第一步：下载Shadowrocket小火箭</summary> <pre><code>Apple Store登陆下面账号
 账号：WTXQ2020@gmail.com
 密码：Wh2022!@
-<font color=red>如果登陆提示问题时，返回选择【其它选项】-【不升级】
-如果显示双重认证，便获取验证码登陆，
+<font color=red>如果登陆显示双重认证，便获取验证码登陆，
+接着点击"未收到验证码"-选择手机尾号15号码发送
 搜索Shadowrocket,直接点击下载，此软件本店已付费，
 不需要你付费了.</font> 
 注意：不需要 不要在Apple Store下载TikTok，
@@ -24,11 +24,18 @@ title: Home
 <font color=red>下面有图示操作：</font>{{<figure src="https://www.z4a.net/images/2021/11/20/_20211120200250.md.jpg" title="" width="550">}}{{<figure src="https://z3.ax1x.com/2021/11/20/IOuQ9e.jpg" title="" width="450">}}
 
 
+
 </code></pre> </details>
 
-<details> <summary>第二步：配置TikTok脚本到火箭</summary> <pre><code>复制这个链接替换视频中的链接:
+<details> <summary>第二步：配置TikTok脚本到火箭</summary> <pre><code>此步骤通过视频演示来教学，
+点开视频进行观看吧~
+首先复制这个链接替换视频中用到的链接:
 <font color=red>https://tk2022.netlify.app/wtfxq.conf</font> 
 注意：视频里用到的链接复制上面的进行替换
+
+
+
+
 
 
 
@@ -50,7 +57,8 @@ width=800>
 
 
 
-#### 视频看不了？点这里进入>>>><font color=red>[备用链接](http://r2xazypbg.hn-bkt.clouddn.com/ssjc.mp4)</font><font color=red>注意：非本店用户使用本链接造成任何问题责任自负</font>
+
+#### 视频看不了？点这里进入>>>><font color=red>[备用视频](http://r2xazypbg.hn-bkt.clouddn.com/ssjc.mp4)</font><font color=red>注意：非本店用户使用本链接造成任何问题责任自负</font>
 
 </code></pre> </details>
 
@@ -90,11 +98,14 @@ width=800>
 
 </code></pre> </details>
 
-<details> <summary>确认收货好评支持我们，赠送【换区】、【注册、登陆、养号】教程</summary> <pre><code>
-<font color=red>15字好评+两张TikTok截图，内容不要带小火箭或节点截图，
+<details> <summary>好评带图支持我们，赠送【换区】、【注册、登陆、修改头像、养号】教程</summary> <pre><code>
+<font color=red>两张TikTok截图+15字好评，
+内容不要带小火箭或节点截图，
 也不要出现翻墙/科学上网/节点等字眼，
-即可获取赠送教程和终身售后，
-还可获赠【跨境电商小白入门教学】</font>
+即可获取以上干货教程和终身售后服务，
+关注店铺、收藏宝贝即可第一时间接收到来自TikTok的更新和
+稳定靠谱的专业技术团队支持。
+</font>
 
 
 
@@ -104,7 +115,7 @@ width=800>
 
 
 
-#### iphone/Ipad未插卡的话，忽略以上的第二步，第四部（TikTok直接去Apple Store下载），直接做第一、第三步，最后，到设置-通用-语言与地区中修改地区为美国，不需要修改语言。
+#### iphone/Ipad未插卡的话，忽略以上的第二步，第四部（TikTok直接去Apple Store下载），直接做第一、第三步，最后，到设置-通用-语言与地区中修改地区为美国，再打开TikTok。
 
 #### 未使用成功/有疑惑？添加店家微信咨询:<font style="background:#DEB887"> N30E114_Zora</font>
 
