@@ -31,11 +31,6 @@ title: Home
 首先复制这个链接替换视频中用到的链接:
 <font color=red>https://tk2022.netlify.app/wtfxq.conf</font> 
 注意：视频里用到的链接复制上面的进行替换
-
-
-
-
-
 <iframe 
 src="http://r2xazypbg.hn-bkt.clouddn.com/ssjc.mp4" 
 scrolling="no" 
@@ -47,9 +42,9 @@ height=600
 width=800> 
 </iframe>
 
-
-
 #### <font color=red>注意：非本店用户使用本链接造成任何问题责任自负</font>
+
+#### 视频看不了？点这里进入>>>><font color=red>[备用视频](http://r2xazypbg.hn-bkt.clouddn.com/ssjc.mp4)</font>
 
 </code></pre> </details>
 
