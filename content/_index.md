@@ -28,23 +28,13 @@ title: Home
 
 <details> <summary>第二步：配置TikTok脚本到火箭</summary> <pre><code>此步骤通过视频演示来教学，
 点开视频进行观看吧~
-首先复制这个链接替换视频中用到的链接:
+复制这个链接替换视频中所用到的链接:
 <font color=red>https://tk2022.netlify.app/wtfxq.conf</font> 
 注意：视频里用到的链接复制上面的进行替换
-<iframe 
-src="http://r2xazypbg.hn-bkt.clouddn.com/ssjc.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
 
-#### <font color=red>注意：非本店用户使用本链接造成任何问题责任自负</font>
+视频看不了？点这里进入>>>><font color=red>[备用视频]()</font>
 
-#### 视频看不了？点这里进入>>>><font color=red>[备用视频](http://r2xazypbg.hn-bkt.clouddn.com/ssjc.mp4)</font>
+
 
 </code></pre> </details>
 
@@ -68,13 +58,12 @@ width=800>
 <details> <summary>第四步：下载TikTok专属版本</summary> <pre><code><font color=red>首先必须先卸载掉你之前自己下载的TikTok</font>， 
 然后点下面的按钮，点安装，等待2分钟，
 就能看到在桌面TikTok已经下载好了，
-<font color=red>本站店名WTFXQ</font>，通过其他店进来的跟他们申请退款。
 
 
 
 <font style="background:#D8BFD8"> [点我安装TikTok免拔卡版本](itms-services://?action=download-manifest&url=https://www.neicexia.com/PlistFile/Get/KKR5E)</font>
 
-<font color=red>出现闪退？</font>解决办法：
+<font color=red>打开TikTok出现闪退？</font>解决办法：
 
 在Apple Store登陆步骤一的Apple ID，登上去后，
 
@@ -84,14 +73,15 @@ width=800>
 
 </code></pre> </details>
 
-<details> <summary>好评带图支持我们，赠送【换区】、【注册、登陆、修改头像、养号】教程</summary> <pre><code>
+<details> <summary>关注店铺、收藏宝贝支持我们，赠送【换区】、【注册、登陆、修改头像】教程</summary> <pre><code>
 <font color=red>两张TikTok截图+15字好评，
 内容不要带小火箭或节点截图，
 也不要出现翻墙/科学上网/节点等字眼，
 即可获取以上干货教程和终身免费售后，
-关注店铺、收藏宝贝即可第一时间获得TikTok更新和
+关注店铺、收藏宝贝也可第一时间获得TikTok更新和
 我们的专业技术支持。
 </font>
+
 
 
 
