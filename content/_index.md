@@ -34,16 +34,13 @@ title: Home
 <iframe 
     width="100%" 
     height="450" 
-    src="http://r2xazypbg.hn-bkt.clouddn.com/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91.mp4" 
+    src="https://jcspsp.oss-cn-beijing.aliyuncs.com/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91.mp4" 
     scrolling="no" 
     border="0" 
     frameborder="no" 
     framespacing="0" 
     allowfullscreen="true">
 </iframe>
-
-————————————————
-
 
 视频看不了？点这里进入>>>><font color=red>[备用视频](http://r2xazypbg.hn-bkt.clouddn.com/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91.mp4)</font>
 
