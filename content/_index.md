@@ -99,7 +99,4 @@ title: Home
 
 #### iphone/Ipad未插卡的话，忽略以上的第二步，第四部（TikTok直接去Apple Store下载），直接做第一、第三步，最后，到设置-通用-语言与地区中修改地区为美国，再打开TikTok。
 
-#### 未使用成功/有疑惑？添加店家微信咨询:<font style="background:#DEB887"> N30E114_Zora</font>
-
-
-
+#### 未使用成功/有疑惑？添加店家微信咨询:<font style="background:#DEB887"> N30E114_Zora</font>
