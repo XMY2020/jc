@@ -15,13 +15,15 @@ title: Home
 <details> <summary>第一步：下载Shadowrocket小火箭</summary> <pre><code>Apple Store登陆下面账号
 账号：WTXQ2020@gmail.com
 密码：Wh2022!@
-<font color=red>如果登陆显示双重认证，便获取验证码登陆，
-接着点击"未收到验证码"-选择手机尾号15号码发送
+<font color=red>如果登陆显示双重认证，
+点击"未收到验证码"-选择"手机尾号15号码"发送,
+之后我会发验证码给你
 搜索Shadowrocket,直接点击下载，此软件本店已付费，
 不需要你付费了.</font> 
-注意：不需要 不要在Apple Store下载TikTok，
+注意：不要在Apple Store下载TikTok，
 步骤四会提供专属版本供下载
-<font color=red>下面有图示操作：</font>{{<figure src="https://www.z4a.net/images/2021/11/20/_20211120200250.md.jpg" title="" width="550">}}{{<figure src="https://z3.ax1x.com/2021/11/20/IOuQ9e.jpg" title="" width="450">}}
+<font color=red>请看图示操作：</font>{{<figure src="https://www.z4a.net/images/2021/11/20/_20211120200250.md.jpg" title="" width="550">}}{{<figure src="https://z3.ax1x.com/2021/11/20/IOuQ9e.jpg" title="" width="450">}}
+
 
 
 </code></pre> </details>
@@ -36,7 +38,7 @@ title: Home
     <source src="https://jcspsp.oss-cn-beijing.aliyuncs.com/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91.mp4" type="video/mp4">
 </video>
 
-视频看不了？点这里进入>>>><font color=red>[备用视频](http://r2xazypbg.hn-bkt.clouddn.com/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91.mp4)</font>
+视频看不了？点这里进入>>>><font color=red>[备用视频](http://r4lvsfn0p.hn-bkt.clouddn.com/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91.mp4)</font>
 
 
 
@@ -53,7 +55,7 @@ title: Home
 
 没有的请点击新手必看，
 
-<font color=red>注意：小火箭的全局路由须改为【代理】</font>
+<font color=red>注意：小火箭的全局路由需改为【代理】</font>
 
 {{<figure src="http://r2xazypbg.hn-bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211121145218.jpg" title="全局路由改为代理" width="300">}} </code></pre> </details>
 
@@ -77,14 +79,15 @@ title: Home
 
 </code></pre> </details>
 
-<details> <summary>关注店铺、收藏宝贝支持我们，赠送【换区】、【注册、登陆、修改头像】教程</summary> <pre><code>
-<font color=red>两张TikTok截图+15字好评，
+<details> <summary>好评、关注店铺、收藏宝贝支持我们，赠送【换区】、【注册、登陆、修改头像】相关教程</summary> <pre><code>
+<font color=red>好评内容需包含两张TikTok截图+15字好评，
 内容不要带小火箭或节点截图，
 也不要出现翻墙/科学上网/节点等字眼，
 即可获取以上干货教程和终身免费售后，
 关注店铺、收藏宝贝也可第一时间获得TikTok更新和
 我们的专业技术支持。
 </font>
+
 
 
 
