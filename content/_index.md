@@ -31,8 +31,9 @@ title: Home
 <details> <summary>第二步：配置TikTok脚本到火箭</summary> <pre><code>此步骤通过视频演示来教学，
 点开视频进行观看吧~
 复制这个链接替换视频中所用到的链接:
-<font color=red>https://2022-1-1.netlify.app//wtfxq.conf</font> 
+<font color=red>https://tiktokjc.netlify.app/wtfxq.conf</font> 
 注意：视频里用到的链接复制上面的进行替换
+
 
 <video width="320" height="240" controls>
     <source src="https://jcspsp.oss-cn-beijing.aliyuncs.com/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91.mp4" type="video/mp4">
